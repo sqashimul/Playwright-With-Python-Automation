@@ -1,7 +1,9 @@
 pip install pytest-playwright
 playwright install
 pip install pytest
-
+python -m pip install --upgrade playwright
+python -m playwright install
+python -m pip install pytest-playwright
 
 
 git status
