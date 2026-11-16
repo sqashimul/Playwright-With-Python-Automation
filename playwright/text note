@@ -1,0 +1,10 @@
+pip install pytest-playwright
+playwright install
+pip install pytest
+
+
+
+git status
+git add -A
+git commit -m 'Playwright Browser Configuration'
+git push -u origin main
